@@ -10,6 +10,10 @@ The dashboard provides a comprehensive view of loan application and repayment da
 - **Overview Page**: Visual trends in loan amounts by state, purpose, employment length, home ownership, and monthly loan issuance.
 - **Details Page**: Row-level data for deep dives and further exploration.
 
+## Dataset
+
+<a href = "https://github.com/deshpandeshefali/Bank-Loan-Performance-/blob/main/financial_loan.csv">View Dataset</a>
+
 ## 🎯 Objective
 
 To help financial institutions and analysts:
