@@ -24,9 +24,9 @@ To help financial institutions and analysts:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/summary.png)
-![Dashboard Screenshot](images/overview.png)
-![Dashboard Screenshot](images/details.png)
+<a href = "https://github.com/deshpandeshefali/Bank-Loan-Performance-/blob/main/summary.png">Summary Page</a>
+<a href = "https://github.com/deshpandeshefali/Bank-Loan-Performance-/blob/main/overview">Overview Page</a>
+<a href = "https://github.com/deshpandeshefali/Bank-Loan-Performance-/blob/main/details">Details Page</a>
 
 
 ## ❓ Business Questions Answered
