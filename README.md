@@ -24,9 +24,9 @@ To help financial institutions and analysts:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](C:/Users/madha/OneDrive/Shefali/Data Analysis/bank_project/summary.png)
-![Dashboard Screenshot](C:/Users/madha/OneDrive/Shefali/Data Analysis/bank_project/overview.png)
-![Dashboard Screenshot](C:/Users/madha/OneDrive/Shefali/Data Analysis/bank_project/details.png)
+![Dashboard Screenshot](images/summary.png)
+![Dashboard Screenshot](images/overview.png)
+![Dashboard Screenshot](images/details.png)
 
 
 ## ❓ Business Questions Answered
